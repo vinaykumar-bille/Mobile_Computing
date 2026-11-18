@@ -1,5 +1,5 @@
 # CO3: Wireless Mobility, Mobile IP and Ad Hoc Routing
-**Student:** B. Vinay Kumar | **Register number:** 192373042 | **Institution:** SIMATS Engineering
+**Student:** B. Student | **Register number:**  | **Institution:** SIMATS Engineering
 
 ## Purpose and scope
 This report supports the CO3 assignment themes in the supplied Assignment 3 PDF. It uses original explanations and reproducible **model outputs**, not claims of measured radio performance. The submitted PDF in `CO3/MC ASSIGNMENT 3.pdf` remains the report reference.
