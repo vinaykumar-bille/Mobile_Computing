@@ -1,8 +1,6 @@
 # Mobile Computing Course Outcome Assignments
 
-Student: Vinay Kumar | Register number: 192373042
-
-This directory contains original learning implementations inspired by the organizational layout of the reference repository. No reference submission was copied verbatim.
+Course: Mobile ComputingThis directory contains original learning implementations inspired by the organizational layout of the reference repository. No reference submission was copied verbatim.
 
 - [CO3](CO3_Assignment_3/README.md): mobility, Mobile IP, DSDV and AODV simulations.
 - [CO4](CO4_Assignment_4/README.md): Android application design, lifecycle and energy-aware task scheduling.
