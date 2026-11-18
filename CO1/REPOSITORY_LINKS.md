@@ -1,17 +1,17 @@
 # Mobile Computing – Assignment and Lab Index
 
-**Student:** B. Vinay Kumar | **Register:** 192373042 | **SIMATS Engineering**
+**Student:** B. Student | **Register:**  | **SIMATS Engineering**
 
 This repository is organized into **CO1, CO2, CO3, CO4, CO5 and Lab_Experiments**. The CO3–CO5 companion reports and scripts are **original**; diagrams are stored in Mermaid text and render in GitHub Markdown. Supporting files are educational logic models, not fabricated Android or wireless measurements.
 
 | Section | Repository folder | Core report or evidence |
 |---|---|---|
-| CO1 | [CO1](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO1) | Concept map PDF |
-| CO2 | [CO2](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO2) | Assessment PDFs |
-| CO3 | [CO3](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO3) | [Original report](https://github.com/vinaykumar-bille/Mobile_Computing/blob/main/CO3/CO3_Assignment_3/REPORT.md), [Python simulations](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO3/CO3_Assignment_3/experiments.py), [Tests](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO3/CO3_Assignment_3/test_experiments.py) |
-| CO4 | [CO4](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO4) | [Original report](https://github.com/vinaykumar-bille/Mobile_Computing/blob/main/CO4/CO4_Assignment_4/REPORT.md), [Practical model](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/practical_model.py), [Tests](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/test_practical_model.py), [Android evidence guide](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/EVIDENCE.md) |
-| CO5 | [CO5](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO5) | [Original report](https://github.com/vinaykumar-bille/Mobile_Computing/blob/main/CO5/CO5_Assignment_5/REPORT.md), [Python simulations](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/experiments.py), [Tests](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/test_experiments.py), [Evidence guide](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/EVIDENCE.md) |
-| Lab | [Lab experiments](https://github.com/vinaykumar-bille/Mobile_Computing/tree/main/Lab_Experiments) | Existing lab experiment screenshots |
+| CO1 | [CO1](https://github.com/Student-bille/Mobile_Computing/tree/main/CO1) | Concept map PDF |
+| CO2 | [CO2](https://github.com/Student-bille/Mobile_Computing/tree/main/CO2) | Assessment PDFs |
+| CO3 | [CO3](https://github.com/Student-bille/Mobile_Computing/tree/main/CO3) | [Original report](https://github.com/Student-bille/Mobile_Computing/blob/main/CO3/CO3_Assignment_3/REPORT.md), [Python simulations](https://github.com/Student-bille/Mobile_Computing/tree/main/CO3/CO3_Assignment_3/experiments.py), [Tests](https://github.com/Student-bille/Mobile_Computing/tree/main/CO3/CO3_Assignment_3/test_experiments.py) |
+| CO4 | [CO4](https://github.com/Student-bille/Mobile_Computing/tree/main/CO4) | [Original report](https://github.com/Student-bille/Mobile_Computing/blob/main/CO4/CO4_Assignment_4/REPORT.md), [Practical model](https://github.com/Student-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/practical_model.py), [Tests](https://github.com/Student-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/test_practical_model.py), [Android evidence guide](https://github.com/Student-bille/Mobile_Computing/tree/main/CO4/CO4_Assignment_4/EVIDENCE.md) |
+| CO5 | [CO5](https://github.com/Student-bille/Mobile_Computing/tree/main/CO5) | [Original report](https://github.com/Student-bille/Mobile_Computing/blob/main/CO5/CO5_Assignment_5/REPORT.md), [Python simulations](https://github.com/Student-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/experiments.py), [Tests](https://github.com/Student-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/test_experiments.py), [Evidence guide](https://github.com/Student-bille/Mobile_Computing/tree/main/CO5/CO5_Assignment_5/EVIDENCE.md) |
+| Lab | [Lab experiments](https://github.com/Student-bille/Mobile_Computing/tree/main/Lab_Experiments) | Existing lab experiment screenshots |
 
 ## Source-based organization
 - CO3 topics: wireless architecture, mobility and handoff, Mobile IP, cellular vs ad hoc networks, DSDV, AODV and emergency routing, as covered by the uploaded CO3 assignment.
