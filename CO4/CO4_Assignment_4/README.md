@@ -1,8 +1,6 @@
 # CO4: Mobile Application Development and Android System Design
 
-**Student:** Vinay Kumar | **Register no.:** 192373042
-
-## Aim
+**Course:** Mobile Computing## Aim
 Design a lightweight Android application for a rural health appointment reminder system that works reliably with intermittent connectivity.
 
 ## Part 1: Architecture
