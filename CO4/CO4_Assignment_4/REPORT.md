@@ -1,6 +1,6 @@
 # CO4: Mobile Operating Systems, Architecture, Runtime, Security and Power
 
-**Student:** B. Vinay Kumar | **Register number:** 192373042
+**Student:** B. Student | **Register number:** 
 
 This original companion explains the six design tasks in the attached *ITA03-MP Assignment 4, Part I* (a 55-page design-only assignment). Existing Part I DOC/DOCX files in this CO4 folder are preserved. **Part I is a written architecture exercise; the Python model below is separately labeled supplemental practice, not evidence that an IDE or SDK was used to complete Part I.**
 
