@@ -1,6 +1,6 @@
 # CO3: Mobility and Routing
 
-**Student:** Vinay Kumar (192373042)
+**Course:** Mobile Computing
 
 ## Aim
 Understand handoff decisions, Mobile IP registration, and route discovery in wireless mobile networks through simple reproducible simulations.
